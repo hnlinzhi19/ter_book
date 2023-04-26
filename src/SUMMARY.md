@@ -6,6 +6,7 @@
   - [十大管理](/src/chapter_3.md)
     - [整体管理](/src/chapter_4.md)
     - [范围管理](/src/chapter_5.md)
+    - [进度管理](/src/chapter_6.md)
 - [背诵](/src/must/item0.md)
   - [口诀](/src/must/item0.md)
   - [项目章程](/src/must/item1.md)
